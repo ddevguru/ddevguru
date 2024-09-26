@@ -34,7 +34,11 @@
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fddevguru&subtitle=ddevguru&size=square" alt="ddevguru">
   </a>
 </td>
-
+<td align="center">
+  <a href="https://ddevguru.github.io/ddevguru-portfolio/" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fhttps://ddevguru.github.io/ddevguru-portfolio/%2Fddevguru+portfolio&subtitle=Ddevguru+Portfolio&size=square" alt="ddevguru">
+  </a>
+</td>
   </tr>
 </table>
 
