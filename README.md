@@ -6,7 +6,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm DEEPAK MISHRA</h1>
 
 <div>
-    <img src=https://ibb.co/kS2WQ0f>
+    <img src="https://media.licdn.com/dms/image/v2/D4D35AQG4sIAth-7v5g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1726395570319?e=1727960400&v=beta&t=7GXSDm0Yd3fHt3IgpFP-nT8G9V3XxTfvxNMEfVNMKj0">
 </div>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;App+Development;UI/UX;Backend+Developer;" alt="Typing SVG" />
